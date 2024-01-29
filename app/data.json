@@ -1,824 +1,501 @@
 [
   {
-    "word": "A public figure",
-    "meaning": "דמות ציבורית",
+    "word": "Demography",
+    "meaning": "תחום במדעי החברה העוסק בתיעוד האוכלוסייה, ובשינויים החלים בה כגון: גודלה, פיזור גיאוגרפי, נישואין, ילודה, תמותה",
     "examples": []
   },
   {
-    "word": "A tendency",
-    "meaning": "נטייה, מגמה",
+    "word": "Aging/ graying of the population",
+    "meaning": "הזדקנות האוכלוסייה",
     "examples": []
   },
   {
-    "word": "Modern media",
-    "meaning": "התקשורת המודרנית",
+    "word": "Currently",
+    "meaning": "בהווה",
     "examples": []
   },
   {
-    "word": "To define our ideals",
-    "meaning": "להגדיר את האידאלים שלנו",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "A decline",
+    "meaning": "ירידה",
+    "examples": []
   },
   {
-    "word": "To realize",
-    "meaning": "להבין",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "a decrease",
+    "meaning": "ירידה",
+    "examples": []
   },
   {
-    "word": "To reveal",
-    "meaning": "לגלות",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "a drop",
+    "meaning": "ירידה",
+    "examples": []
   },
   {
-    "word": "To provide",
-    "meaning": "לתת, לספק",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "An increase",
+    "meaning": "עליה",
+    "examples": []
   },
   {
-    "word": "Research",
-    "meaning": "מחקר",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "a rise",
+    "meaning": "עליה",
+    "examples": []
   },
   {
-    "word": "Mood and personality",
-    "meaning": "מצב רוח ואישיות",
+    "word": "To take measures",
+    "meaning": "לנקוט צעדים",
     "examples": [
       ""
     ]
   },
   {
-    "word": "A researcher",
-    "meaning": "חוקר/ת",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "The labor market",
+    "meaning": "שוק העבודה",
+    "examples": []
   },
   {
-    "word": "A good/bad experience",
-    "meaning": "חוויה או ניסיון טוב או רע",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "Birth rate",
+    "meaning": "קצב הילודה",
+    "examples": []
   },
   {
-    "word": "Characterized by",
-    "meaning": "מאופיין על ידי",
-    "examples": [
-      "A motivated student is characterized by self discipline",
-      "Israelis are characterized by extreme openness"
-    ]
+    "word": "Mortality rate",
+    "meaning": "קצב התמותה",
+    "examples": []
   },
   {
-    "word": "The World's population",
-    "meaning": "אוכלוסיית העולם",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "A trend",
+    "meaning": "מגמה",
+    "examples": []
   },
   {
-    "word": "High/low levels of stress",
-    "meaning": "רמות גבוהות/ נמוכות של לחץ",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "Flexible labor market",
+    "meaning": "שוק עבודה גמיש",
+    "examples": []
+  },
+
+
+  {
+    "word": "Conception",
+    "meaning": "תפיסה, רעיון",
+    "examples": []
   },
   {
-    "word": "A recent study",
-    "meaning": "מחקר עדכני",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "misconception",
+    "meaning": "תפיסה מוטעית",
+    "examples": []
   },
   {
-    "word": "An urban environment",
-    "meaning": "סביבה אורבנית- עירונית",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "Gender",
+    "meaning": "מיגדר: מונח במדעי החברה המתייחס להבחנות בין גבר לאשה על בסיס תרבותי וחברתי",
+    "examples": []
   },
   {
-    "word": "To improve brain performance",
-    "meaning": "לשפר את הביצוע של המוח",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "To reduce/increase the cognitive efforts",
-    "meaning": "להפחית/ להגביר את המאמצים הקוגניטיביים",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "To maintain and enhance natural green settings",
-    "meaning": "לשמר ולחזק סביבות ירוקות טבעיות",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": " A common belief",
-    "meaning": "אמונה הנפוצה",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "Improve your mental health",
-    "meaning": "לשפר את הבריאות המנטלית",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "Improve your physical health",
-    "meaning": "לשפר את הבריאות הגופנית שלך",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "the subjects",
-    "meaning": "המשתתפים בניסוי",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "A self-esteem issue",
+    "meaning": "סוגיה (נושא חשוב) הקשורה להערכה עצמית",
+    "examples": []
   },
   {
     "word": "Finding/s",
-    "meaning": "ממצאים",
-    "examples": [
-      "",
-      ""
-    ]
+    "meaning": "ממצא/ ים",
+    "examples": []
   },
   {
-    "word": "To fill out a questionnaire",
-    "meaning": "למלא שאלון",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "Subjects",
+    "meaning": "המשתתפים במחקר",
+    "examples": []
   },
   {
-    "word": "The experimental group",
-    "meaning": "קבוצת הניסוי",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "Participants",
+    "meaning": "המשתתפים במחקר",
+    "examples": []
   },
   {
-    "word": "the control group",
-    "meaning": "קבוצת הבקרה",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "To activate certain chemicals in the body",
+    "meaning": "להפעיל כימיקלים מסוימים בגוף",
+    "examples": []
   },
   {
-    "word": "the comparison   group",
-    "meaning": "קבוצת ההשוואה",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "The health issue",
+    "meaning": "סוגיית הבריאות",
+    "examples": []
   },
   {
-    "word": "Anxiety",
-    "meaning": "חרדה",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "To break the cycle of emotional eating",
+    "meaning": "לשבור את מעגל האכילה הרגשית",
+    "examples": []
   },
   {
-    "word": "Depression",
-    "meaning": "דיכאון",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "A healthy relationship with food",
+    "meaning": "יחסים בריאים עם אוכל",
+    "examples": []
   },
   {
-    "word": "An impact/ effect",
+    "word": "Topic",
+    "meaning": "הנושא הכללי של המאמר, בד\"כ הכותרת",
+    "examples": []
+  },
+  {
+    "word": "Leading argument",
+    "meaning": "הטיעון המוביל, הרעיון המרכזי של המאמר בפתיח",
+    "examples": []
+  },
+  {
+    "word": "main idea",
+    "meaning": "הטיעון המוביל, הרעיון המרכזי של המאמר בפתיח",
+    "examples": []
+  },
+  {
+    "word": "Research",
+    "meaning": "מחקר (כמונח כללי)",
+    "examples": []
+  },
+  {
+    "word": "A study",
+    "meaning": "מחקר בנושא מסוים",
+    "examples": []
+  },
+  {
+    "word": "To conduct research",
+    "meaning": "לערוך מחקר",
+    "examples": []
+  },
+  {
+    "word": "to carry out research",
+    "meaning": "לערוך מחקר",
+    "examples": []
+  },
+  {
+    "word": "A research",
+    "meaning": "מחקר",
+    "examples": []
+  },
+  {
+    "word": "An experimental group",
+    "meaning": "קבוצת המחקר, עליהם המחקר",
+    "examples": []
+  },
+  {
+    "word": "A comparison group",
+    "meaning": "קבוצת השוואה, קבוצת בקרה/ קבוצת ביקורת",
+    "examples": []
+  },
+  {
+    "word": "A control group",
+    "meaning": "קבוצת השוואה, קבוצת בקרה/ קבוצת ביקורת",
+    "examples": []
+  },
+  {
+    "word": "Versus",
+    "meaning": "מול, נגד",
+    "examples": []
+  },
+  {
+    "word": "Vs.",
+    "meaning": "מול, נגד",
+    "examples": []
+  },
+  {
+    "word": "An addiction",
+    "meaning": "התמכרות",
+    "examples": []
+  },
+  {
+    "word": "An impact",
     "meaning": "השפעה",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
-    "word": "A form of self expression",
-    "meaning": "צורה של ביטוי עצמי",
-    "examples": [
-      "",
-      ""
-    ]
+    "word": "An effect",
+    "meaning": "השפעה",
+    "examples": []
   },
   {
-    "word": "To realize",
-    "meaning": "להכיר ב",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "To play an important role in",
-    "meaning": "לשחק תפקיד חשוב ב",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "A positive/negative impact",
-    "meaning": "השפעה חיובית/שלילית",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "Verbal communication",
-    "meaning": "תקשורת מילולית",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "non verbal communication",
-    "meaning": "תקשורת לא מילולית",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "Develop and boost",
-    "meaning": "לפתח ולחזק",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "Willpower",
-    "meaning": "כח רצון",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "implications",
-    "meaning": "השלכות",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "Far-reaching implications",
-    "meaning": "השלכות ארוכות טווח",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "To establish good habits and routines",
-    "meaning": "לבסס הרגלים טובים ושגרה",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "To improve self control",
-    "meaning": "לשפר שליטה עצמית",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "To reinforce ",
-    "meaning": "לחזק",
-    "examples": [
-      "to reinforce the main idea",
-      "to reinforce willpower"
-    ]
-  },
-  {
-    "word": "Develop and boost",
-    "meaning": "לפתח ולחזק",
-    "examples": [
-      "",
-      ""
-    ]
-  },
-  {
-    "word": "To emphasize",
-    "meaning": "להדגיש",
-    "examples": [
-      "to emphasize the main idea",
-      ""
-    ]
-  },
-  {
-    "word": "To stress",
-    "meaning": "להדגיש",
-    "examples": [
-      "To stress the main idea",
-      ""
-    ]
+    "word": "To draw an analogy",
+    "meaning": "לערוך השוואה, אנלוגיה",
+    "examples": []
   },
   {
     "word": "Moreover",
     "meaning": "יתרה על כך",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "furthermore",
     "meaning": "יתרה על כך",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Initially/ First… second (next)… third (next)…last",
     "meaning": "סדר כרונולוגי: הראשון, השני (הבא)...",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Also",
     "meaning": "גם",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "as well as",
     "meaning": "גם",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "too",
     "meaning": "גם",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Another",
     "meaning": "אחר, עוד",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "In addition",
     "meaning": "בנוסף",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Not only… but also",
     "meaning": "לא רק... אלא גם...",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Finally",
     "meaning": "בסופו של דבר",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Either…or",
     "meaning": "או x... או y...",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Neither… nor",
     "meaning": "לא x... ולא y...",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Eventually",
     "meaning": "בסופו של דבר",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Yet",
     "meaning": "אולם/אבל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Still",
     "meaning": "אולם/אבל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "However",
     "meaning": "אולם/אבל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "But",
     "meaning": "אולם/אבל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Whereas",
     "meaning": " בעוד ש... (ניגוד)",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "While",
     "meaning": " בעוד ש... (ניגוד)",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "In contrast",
     "meaning": "בניגוד",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "On the contrary",
     "meaning": "בניגוד",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Conversely",
     "meaning": "בניגוד",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "as opposed to",
     "meaning": "בניגוד",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Instead",
     "meaning": "בניגוד",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Rather",
     "meaning": "במקום",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Although",
     "meaning": "למרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Though",
     "meaning": "למרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Even though",
     "meaning": "למרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Despite",
     "meaning": "למרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "In spite of",
     "meaning": "למרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "On the one hand",
     "meaning": "מצד אחד",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "On the other hand",
     "meaning": "מצד שני",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Like",
     "meaning": "כמו",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "In like manner",
     "meaning": "כמו",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Similarly",
     "meaning": "כמו",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Likewise",
     "meaning": "בדומה",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Equality",
     "meaning": "באופן שווה",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "For example",
     "meaning": "לדוגמא",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "For instance",
     "meaning": "לדוגמא",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Such as",
     "meaning": "כמו למשל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "E.g",
     "meaning": "לדוגמא",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Since",
     "meaning": "בגלל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Because",
     "meaning": "בגלל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Consequently",
     "meaning": "כתוצאה מכך",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "As a result",
     "meaning": "כתוצאה מכך",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Thus",
     "meaning": "לכן, כך",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Therefore",
     "meaning": "לכן",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Due to",
     "meaning": "בגלל",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Stem from",
     "meaning": "נגרם מ..",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Result from",
     "meaning": "נגרם מ..",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Derive from",
     "meaning": "נגרם מ..",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Result in",
     "meaning": "גורם ל..",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "In other words",
     "meaning": "במילים אחרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Indeed",
     "meaning": "אכן",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "That is",
     "meaning": "כלומר, במילים אחרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "Namely",
     "meaning": "כלומר, במילים אחרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   },
   {
     "word": "I.e",
     "meaning": "כלומר, במילים אחרות",
-    "examples": [
-      "",
-      ""
-    ]
+    "examples": []
   }
 ]
