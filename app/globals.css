@@ -25,3 +25,80 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  position: relative;
+}
+
+.flip-card {
+  perspective: 1000px;
+  width: 250px;
+  height: 300px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.flip-card.flipped {
+  transform: rotateY(180deg);
+}
+
+.flip-card-inner {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+}
+
+.flip-card-front,
+.flip-card-back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #ccc;
+  color: #232523;
+}
+
+.flip-card-back {
+  background-color: #eee;
+  color: #232523;
+  transform: rotateY(180deg);
+}
+
+.card-content {
+  padding-top: 130px;
+  text-align: center;
+  margin: auto;
+
+}
+
+
+/*.btn {*/
+/*  width: 250px;*/
+/*  display: inline-flex;*/
+/*  justify-content: center;*/
+
+/*}*/
+
+.button1, .button2 {
+  position: absolute;
+  bottom: 0;
+  width: 250px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.button1 {
+  left: 0;
+}
+
+.button2 {
+  right: 0;
+}

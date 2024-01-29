@@ -1,6 +1,6 @@
 
 
-interface Word{
+export interface Word{
     word: string;
     meaning: string;
     examples: string[];

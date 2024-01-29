@@ -1,9 +1,11 @@
 "use client";
 import Image from 'next/image'
-import {Dispatch, SetStateAction, useState} from "react";
+import {Dispatch, SetStateAction, useEffect, useState} from "react";
 import WordDiv from "@/app/Word";
 import data from './data.json'
 import {unshiftLoader} from "next/dist/build/webpack/config/helpers";
+import {Word} from "@/app/types";
+import FlipCard from "@/app/flipCard";
 
 function getData(): Word[] {
     // const res = await fetch('https://api.example.com/...', { cache: 'force-cache' });
@@ -15,13 +17,25 @@ function getData(): Word[] {
 export default function Home() {
     const [isOpen, setIsOpen] = useState(false)
     const [words, setWords] = useState(getData())
-    const [selected, setSelected] = useState(0)
-    const [seen, setSeen] = useState(new Set([0]))
+    const [selected, setSelected] = useState(-1)
+    const [seen, setSeen] = useState(new Set([-1]))
+
+    useEffect(
+        ()=>{
+            randomPeak()
+        }
+    ,[])
 
     function selectWord(i: number): void {
         setSelected(i)
         setIsOpen(false)
     }
+
+    function approved(i: number){
+        seen.add(i)
+        randomPeak()
+    }
+
 
     function randomPeak() {
         if (seen.size === words.length){
@@ -32,12 +46,10 @@ export default function Home() {
             i++
         }
         selectWord(i)
-        seen.add(i)
     }
 
     function show(): void{
         setIsOpen(!isOpen)
-        seen.delete(selected)
     }
 
     function removerSelection() : string {
@@ -70,26 +82,19 @@ export default function Home() {
                             </a>
                         </div>
                     </div>
-                    <div
-                        className="mb-32 grid text-center lg:max-w-5xl h-[100px] p-4 lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-center">
-                        <h2 className={`mb-3 text-2xl font-semibold`}
-                            onClick={show}>
-                            {words[selected] != undefined ? words[selected].word: removerSelection()}
-                        </h2>
-                        {isOpen ? <WordDiv word={words[selected].word} meaning={words[selected].meaning}
-                                     examples={words[selected].examples}/>
-                        : null}
+
+                    <div className="d-flex justify-content-between">
+                        {words[selected] ?
+                            <FlipCard word={words[selected]} V={()=>approved(selected)} X={randomPeak}/>:null}
+
                     </div>
 
-                    <div
-                        className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-center">
-                        <button onClick={randomPeak}
-                                className="group rounded-lg border border-transparent px-2 py-2 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-                        >
-                            random
-                        </button>
-                    </div>
+                    {/*<div>*/}
+                    {/*    <button onClick={()=>approved(selected)}>V</button>*/}
+                    {/*    {words[selected] ? <FlipCard word={words[selected].word} meaning={words[selected].meaning} examples={words[selected].examples}/>:null}*/}
 
+                    {/*    <button onClick={randomPeak}>X</button>*/}
+                    {/*</div>*/}
 
                     <div
                         className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-center">
