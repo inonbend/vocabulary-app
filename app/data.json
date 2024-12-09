@@ -2,151 +2,1049 @@
   {
     "word": "To achieve",
     "meaning": "להשיג",
-    "examples": ["To achieve a goal"]
+    "examples": [
+      "To achieve a goal"
+    ]
   },
   {
     "word": "To administer a questionnaire",
     "meaning": "להעביר שאלון",
-    "examples": ["The researcher plans to administer a questionnaire to 100 participants."]
+    "examples": [
+      "The researcher plans to administer a questionnaire to 100 participants."
+    ]
   },
   {
     "word": "To assess",
     "meaning": "להעריך",
-    "examples": ["To assess the effectiveness of the new policy."]
+    "examples": [
+      "To assess the effectiveness of the new policy."
+    ]
   },
   {
     "word": "To associate",
     "meaning": "לקשר",
-    "examples": ["To associate happiness with good health."]
+    "examples": [
+      "To associate happiness with good health."
+    ]
   },
   {
     "word": "To attribute",
     "meaning": "ליחס",
-    "examples": ["To attribute success to hard work."]
+    "examples": [
+      "To attribute success to hard work."
+    ]
   },
   {
     "word": "To compare",
     "meaning": "להשוות",
-    "examples": ["To compare two different methods."]
+    "examples": [
+      "To compare two different methods."
+    ]
   },
   {
     "word": "To conduct a study",
     "meaning": "לנהל",
-    "examples": ["To conduct a study on climate change."]
+    "examples": [
+      "To conduct a study on climate change."
+    ]
   },
   {
     "word": "To confirm",
     "meaning": "לאשר",
-    "examples": ["To confirm the reservation for the hotel."]
+    "examples": [
+      "To confirm the reservation for the hotel."
+    ]
   },
   {
     "word": "To consider",
     "meaning": "לשקול, לחשוב",
-    "examples": ["To consider all available options."]
+    "examples": [
+      "To consider all available options."
+    ]
   },
   {
     "word": "To demonstrate",
     "meaning": "להוכיח",
-    "examples": ["To demonstrate the benefits of the new software."]
+    "examples": [
+      "To demonstrate the benefits of the new software."
+    ]
   },
   {
     "word": "To elicit",
     "meaning": "לדלות",
-    "examples": ["To elicit responses from the audience."]
+    "examples": [
+      "To elicit responses from the audience."
+    ]
   },
   {
     "word": "To estimate / To evaluate",
     "meaning": "להעריך",
-    "examples": ["To estimate the cost of the project.", "To evaluate the performance of the team."]
+    "examples": [
+      "To estimate the cost of the project.",
+      "To evaluate the performance of the team."
+    ]
   },
   {
     "word": "To examine",
     "meaning": "לבדוק, לבחון",
-    "examples": ["To examine the evidence in detail."]
+    "examples": [
+      "To examine the evidence in detail."
+    ]
   },
   {
     "word": "To expect",
     "meaning": "לצפות",
-    "examples": ["To expect good results from the experiment."]
+    "examples": [
+      "To expect good results from the experiment."
+    ]
   },
   {
     "word": "To identify",
     "meaning": "לזהות",
-    "examples": ["To identify the root cause of the problem."]
+    "examples": [
+      "To identify the root cause of the problem."
+    ]
   },
   {
     "word": "To indicate",
     "meaning": "להראות",
-    "examples": ["To indicate the direction of the wind."]
+    "examples": [
+      "To indicate the direction of the wind."
+    ]
   },
   {
     "word": "To involve",
     "meaning": "מעורב",
-    "examples": ["To involve the community in the project."]
+    "examples": [
+      "To involve the community in the project."
+    ]
   },
   {
     "word": "To measure",
     "meaning": "למדוד",
-    "examples": ["To measure the height of the building."]
+    "examples": [
+      "To measure the height of the building."
+    ]
   },
   {
     "word": "To reject / To refute",
     "meaning": "להפריך, לדחות",
-    "examples": ["To reject the hypothesis.", "To refute a false claim."]
+    "examples": [
+      "To reject the hypothesis.",
+      "To refute a false claim."
+    ]
   },
   {
     "word": "To support",
     "meaning": "לחזק, לתמוך",
-    "examples": ["To support a friend in need."]
+    "examples": [
+      "To support a friend in need."
+    ]
   },
   {
     "word": "To survey",
     "meaning": "לסקור",
-    "examples": ["To survey the land before construction."]
+    "examples": [
+      "To survey the land before construction."
+    ]
   },
   {
     "word": "Unanticipated Consequences",
     "meaning": "השלכות, תוצאות- לא צפויות",
-    "examples": ["Unanticipated consequences of the new policy caused delays."]
+    "examples": [
+      "Unanticipated consequences of the new policy caused delays."
+    ]
   },
   {
     "word": "Contrary",
     "meaning": "בניגוד",
-    "examples": ["Contrary to popular belief, not all cats dislike water."]
+    "examples": [
+      "Contrary to popular belief, not all cats dislike water."
+    ]
   },
   {
     "word": "Controversial",
     "meaning": "שנוי במחלוקת",
-    "examples": ["The topic of animal testing is highly controversial."]
+    "examples": [
+      "The topic of animal testing is highly controversial."
+    ]
   },
   {
     "word": "Lack of evidence",
     "meaning": "חוסר הוכחה, ראייה",
-    "examples": ["The claim was dismissed due to lack of evidence."]
+    "examples": [
+      "The claim was dismissed due to lack of evidence."
+    ]
   },
   {
     "word": "Implications",
     "meaning": "השלכות",
-    "examples": ["The implications of the study are far-reaching."]
+    "examples": [
+      "The implications of the study are far-reaching."
+    ]
   },
   {
     "word": "Voluntary",
     "meaning": "בהתנדבות-ברצון",
-    "examples": ["Participation in the survey is voluntary."]
+    "examples": [
+      "Participation in the survey is voluntary."
+    ]
   },
   {
     "word": "Participation",
     "meaning": "השתתפות",
-    "examples": ["Active participation in class is encouraged."]
+    "examples": [
+      "Active participation in class is encouraged."
+    ]
   },
   {
     "word": "Purpose",
     "meaning": "מטרה",
-    "examples": ["The purpose of the meeting is to discuss the budget."]
+    "examples": [
+      "The purpose of the meeting is to discuss the budget."
+    ]
   },
   {
     "word": "Empirical studies",
     "meaning": "מחקרים אמפיריים",
-    "examples": ["Empirical studies show a link between exercise and mental health."]
+    "examples": [
+      "Empirical studies show a link between exercise and mental health."
+    ]
+  },
+  {
+    "word": "To address",
+    "meaning": "להתייחס",
+    "examples": [
+      "To address the concerns raised by the committee."
+    ]
+  },
+  {
+    "word": "To challenge",
+    "meaning": "להטיל ספק",
+    "examples": [
+      "To challenge the validity of the results."
+    ]
+  },
+  {
+    "word": "To cite",
+    "meaning": "לצטט",
+    "examples": [
+      "To cite a famous quote in the essay."
+    ]
+  },
+  {
+    "word": "To describe",
+    "meaning": "לתאר",
+    "examples": [
+      "To describe the scenery in vivid detail."
+    ]
+  },
+  {
+    "word": "To determine",
+    "meaning": "לקבוע",
+    "examples": [
+      "To determine the outcome of the experiment."
+    ]
+  },
+  {
+    "word": "To differentiate",
+    "meaning": "להבדיל",
+    "examples": [
+      "To differentiate between fact and opinion."
+    ]
+  },
+  {
+    "word": "To emphasize / to stress",
+    "meaning": "להדגיש",
+    "examples": [
+      "To emphasize the importance of teamwork."
+    ]
+  },
+  {
+    "word": "To ignore",
+    "meaning": "להתעלם",
+    "examples": [
+      "To ignore the noise and focus on the task."
+    ]
+  },
+  {
+    "word": "To justify",
+    "meaning": "להצדיק",
+    "examples": [
+      "To justify the decision with valid reasons."
+    ]
+  },
+  {
+    "word": "To modify",
+    "meaning": "לשנות",
+    "examples": [
+      "To modify the design based on feedback."
+    ]
+  },
+  {
+    "word": "To offer",
+    "meaning": "להציע",
+    "examples": [
+      "To offer a solution to the problem."
+    ]
+  },
+  {
+    "word": "To predict",
+    "meaning": "לנבא, לחזות",
+    "examples": [
+      "To predict the weather for the coming week."
+    ]
+  },
+  {
+    "word": "To present",
+    "meaning": "להציג",
+    "examples": [
+      "To present the findings to the team."
+    ]
+  },
+  {
+    "word": "To provide",
+    "meaning": "לספק",
+    "examples": [
+      "To provide resources for the project."
+    ]
+  },
+  {
+    "word": "Aim",
+    "meaning": "מטרה",
+    "examples": [
+      "The aim of the study is to improve efficiency."
+    ]
+  },
+  {
+    "word": "A relatively unexplored area",
+    "meaning": "תחום שלא נחקר באופן יחסי",
+    "examples": [
+      "This is a relatively unexplored area in psychology."
+    ]
+  },
+  {
+    "word": "Attitude",
+    "meaning": "גישה",
+    "examples": [
+      "To change the public's attitude towards recycling."
+    ]
+  },
+
+  {
+    "word": "Policy differences",
+    "meaning": "הבדלי מדיניות",
+    "examples": [
+      "To discuss policy differences between the parties."
+    ]
+  },
+  {
+    "word": "Frequent exposure",
+    "meaning": "חשיפה תדירה",
+    "examples": [
+      "Frequent exposure to sunlight can damage the skin."
+    ]
+  },
+  {
+    "word": "Former",
+    "meaning": "הראשון, הקודם",
+    "examples": [
+      "The former president attended the event."
+    ]
+  },
+  {
+    "word": "Latter",
+    "meaning": "האחרון, המאוחר יותר",
+    "examples": [
+      "The latter option is more cost-effective."
+    ]
+  },
+  {
+    "word": "Goal",
+    "meaning": "מטרה",
+    "examples": [
+      "To achieve a long-term goal."
+    ]
+  },
+  {
+    "word": "A great Impact",
+    "meaning": "השפעה גדולה",
+    "examples": [
+      "The new law had a great impact on the economy."
+    ]
+  },
+  {
+    "word": "Adequate information",
+    "meaning": "מספק, הולם",
+    "examples": [
+      "Adequate information is crucial for making informed decisions."
+    ]
+  },
+  {
+    "word": "The objective",
+    "meaning": "המטרה",
+    "examples": [
+      "The objective of the project is to reduce costs."
+    ]
+  },
+  {
+    "word": "To adapt",
+    "meaning": "לסגל",
+    "examples": [
+      "To adapt to a new environment."
+    ]
+  },
+  {
+    "word": "To adopt",
+    "meaning": "לאמץ",
+    "examples": [
+      "To adopt a new strategy."
+    ]
+  },
+  {
+    "word": "To consist of",
+    "meaning": "להיות מורכב מ",
+    "examples": [
+      "The team consists of five members."
+    ]
+  },
+  {
+    "word": "To fill in",
+    "meaning": "למלא",
+    "examples": [
+      "To fill in the application form."
+    ]
+  },
+  {
+    "word": "To insure",
+    "meaning": "להבטיח",
+    "examples": [
+      "To insure the safety of passengers."
+    ]
+  },
+  {
+    "word": "To minimize",
+    "meaning": "להקטין למינימום",
+    "examples": [
+      "To minimize the risk of errors."
+    ]
+  },
+  {
+    "word": "To range",
+    "meaning": "(לנוע ב..) טווח",
+    "examples": [
+      "The prices range from $10 to $50."
+    ]
+  },
+  {
+    "word": "To record",
+    "meaning": "לתעד",
+    "examples": [
+      "To record the details of the meeting."
+    ]
+  },
+  {
+    "word": "To select",
+    "meaning": "לבחור",
+    "examples": [
+      "To select the best candidate for the job."
+    ]
+  },
+  {
+    "word": "Design of the study",
+    "meaning": "עיצוב המחקר",
+    "examples": [
+      "The design of the study was carefully planned."
+    ]
+  },
+  {
+    "word": "Instruments",
+    "meaning": "כלים",
+    "examples": [
+      "The instruments used in the experiment were calibrated."
+    ]
+  },
+  {
+    "word": "Observations",
+    "meaning": "תצפיות",
+    "examples": [
+      "The scientist recorded observations during the experiment."
+    ]
+  },
+  {
+    "word": "Pattern of behavior",
+    "meaning": "דפוס התנהגות",
+    "examples": [
+      "The child exhibited a new pattern of behavior."
+    ]
+  },
+  {
+    "word": "The exact number of participants",
+    "meaning": "המספר המדויק של משתתפים",
+    "examples": [
+      "The exact number of participants is yet to be confirmed."
+    ]
+  },
+  {
+    "word": "Data collection procedures",
+    "meaning": "נוהל איסוף נתונים",
+    "examples": [
+      "The data collection procedures were standardized."
+    ]
+  },
+  {
+    "word": "Considerable number of respondents",
+    "meaning": "מספר ניכר (גדול) של משיבים",
+    "examples": [
+      "A considerable number of respondents agreed with the statement."
+    ]
+  },
+  {
+    "word": "Pretest",
+    "meaning": "מבחן לפני",
+    "examples": [
+      "The pretest was conducted to evaluate initial knowledge."
+    ]
+  },
+  {
+    "word": "Posttest",
+    "meaning": "מבחן אחרי",
+    "examples": [
+      "The posttest showed significant improvement."
+    ]
+  },
+  {
+    "word": "Representative sample",
+    "meaning": "מדגם מייצג",
+    "examples": [
+      "A representative sample was chosen for the survey."
+    ]
+  },
+  {
+    "word": "Random sample",
+    "meaning": "מדגם אקראי",
+    "examples": [
+      "A random sample ensures unbiased results."
+    ]
+  },
+  {
+    "word": "Scale",
+    "meaning": "סולם",
+    "examples": [
+      "The survey used a 5-point scale."
+    ]
+  },
+  {
+    "word": "Tendency",
+    "meaning": "נטייה",
+    "examples": [
+      "A tendency to overthink can cause stress."
+    ]
+  },
+  {
+    "word": "Trend",
+    "meaning": "נטייה טרנד",
+    "examples": [
+      "The trend of online shopping is growing."
+    ]
+  },
+  {
+    "word": "Suitable tool",
+    "meaning": "כלי מתאים/הולם",
+    "examples": [
+      "Selecting a suitable tool is crucial for accurate measurement."
+    ]
+  },
+  {
+    "word": "Variables",
+    "meaning": "משתנים",
+    "examples": [
+      "The experiment included both independent and dependent variables."
+    ]
+  },
+  {
+    "word": "Neglected problem",
+    "meaning": "בעיה שהוזנחה",
+    "examples": [
+      "Pollution in remote areas is a neglected problem."
+    ]
+  },
+
+  {
+    "word": "The objective",
+    "meaning": "המטרה",
+    "examples": [
+      "The objective of this study is to enhance understanding of climate change."
+    ]
+  },
+  {
+    "word": "Pattern of behavior",
+    "meaning": "דפוס התנהגות",
+    "examples": [
+      "A pattern of behavior emerged during the observations."
+    ]
+  },
+  {
+    "word": "Neglected problem",
+    "meaning": "בעיה שהוזנחה",
+    "examples": [
+      "Poverty in rural areas is a neglected problem."
+    ]
+  },
+  {
+    "word": "Uniqueness",
+    "meaning": "ייחודיות",
+    "examples": [
+      "The uniqueness of this artwork makes it valuable."
+    ]
+  },
+  {
+    "word": "Essentially - essential",
+    "meaning": "בעיקר- חיוני",
+    "examples": [
+      "Essentially, the project aims to promote sustainability.",
+      "Good communication is essential for teamwork."
+    ]
+  },
+  {
+    "word": "Hardly - hard",
+    "meaning": "בקושי - קשה",
+    "examples": [
+      "She could hardly believe the news.",
+      "This rock is hard to break."
+    ]
+  },
+  {
+    "word": "Likely - like",
+    "meaning": "סביר - כמו",
+    "examples": [
+      "It is likely to rain today.",
+      "She sings like a professional."
+    ]
+  },
+  {
+    "word": "Predominantly",
+    "meaning": "בעיקר",
+    "examples": [
+      "The attendees were predominantly students."
+    ]
+  },
+  {
+    "word": "Thoroughly",
+    "meaning": "באופן יסודי",
+    "examples": [
+      "To thoroughly clean the lab before conducting experiments."
+    ]
+  },
+  {
+    "word": "Unequally",
+    "meaning": "באופן לא שווה",
+    "examples": [
+      "The resources were unequally distributed among the regions."
+    ]
+  },
+  {
+    "word": "To analyze",
+    "meaning": "לנתח",
+    "examples": [
+      "To analyze the survey results for patterns."
+    ]
+  },
+  {
+    "word": "To decline / to decrease",
+    "meaning": "להפחית",
+    "examples": [
+      "To decline in market value.",
+      "To decrease the usage of disposable items."
+    ]
+  },
+  {
+    "word": "To diminish / To drop",
+    "meaning": "להפחית להקטין",
+    "examples": [
+      "To diminish the impact of misinformation.",
+      "The temperature dropped suddenly."
+    ]
+  },
+  {
+    "word": "To judge",
+    "meaning": "לשפוט",
+    "examples": [
+      "To judge the quality of the submissions."
+    ]
+  },
+  {
+    "word": "To rate",
+    "meaning": "לדרג",
+    "examples": [
+      "To rate the performance on a scale of 1 to 10."
+    ]
+  },
+  {
+    "word": "To reduce",
+    "meaning": "להפחית",
+    "examples": [
+      "To reduce the environmental footprint."
+    ]
+  },
+  {
+    "word": "To rise",
+    "meaning": "לעלות",
+    "examples": [
+      "To rise early for the conference."
+    ]
+  },
+  {
+    "word": "A positive correlation",
+    "meaning": "מתאם חיובי",
+    "examples": [
+      "There is a positive correlation between regular exercise and mental well-being."
+    ]
+  },
+  {
+    "word": "Distribution",
+    "meaning": "חלוקה/ הפצה",
+    "examples": [
+      "The distribution of funds was equitable."
+    ]
+  },
+  {
+    "word": "Gap",
+    "meaning": "פער",
+    "examples": [
+      "The gap between demand and supply is significant."
+    ]
+  },
+  {
+    "word": "A high incidence",
+    "meaning": "היקף השפעה גבוה",
+    "examples": [
+      "The region has a high incidence of heart disease."
+    ]
+  },
+  {
+    "word": "Majority",
+    "meaning": "רוב",
+    "examples": [
+      "The majority of votes were in favor of the proposal."
+    ]
+  },
+  {
+    "word": "A common occurrence",
+    "meaning": "התרחשות נפוצה",
+    "examples": [
+      "Flooding is a common occurrence in coastal areas."
+    ]
+  },
+  {
+    "word": "Rate of error",
+    "meaning": "שיעור הטעות",
+    "examples": [
+      "The rate of error in the experiment was minimal."
+    ]
+  },
+  {
+    "word": "Reliability",
+    "meaning": "מהימנות",
+    "examples": [
+      "The reliability of the results is unquestionable."
+    ]
+  },
+  {
+    "word": "Incorrect responses",
+    "meaning": "תשובות לא נכונות",
+    "examples": [
+      "Incorrect responses were filtered out during analysis."
+    ]
+  },
+  {
+    "word": "Validity",
+    "meaning": "תקפות",
+    "examples": [
+      "The validity of the hypothesis was tested rigorously."
+    ]
+  },
+  {
+    "word": "Scores were significantly higher",
+    "meaning": "התוצאות היו גבוהות באופן משמעותי",
+    "examples": [
+      "The scores were significantly higher in the post-test."
+    ]
+  },
+  {
+    "word": "To report explicitly",
+    "meaning": "לדווח בצורה מפורשת",
+    "examples": [
+      "The findings were reported explicitly in the final report."
+    ]
+  },
+  {
+    "word": "To report implicitly",
+    "meaning": "לדווח בצורה מרומזת",
+    "examples": [
+      "The report implicitly acknowledged the issue."
+    ]
+  },
+  {
+    "word": "Results accurately reflect",
+    "meaning": "התוצאות משקפות בצורה מדויקת",
+    "examples": [
+      "The results accurately reflect the participants' abilities."
+    ]
+  },
+  {
+    "word": "To acknowledge / to admit",
+    "meaning": "להודות",
+    "examples": [
+      "To acknowledge the contributions of all team members.",
+      "To admit a mistake in the calculation."
+    ]
+  },
+  {
+    "word": "To argue",
+    "meaning": "לטעון",
+    "examples": [
+      "To argue that stricter regulations are necessary."
+    ]
+  },
+  {
+    "word": "To assume",
+    "meaning": "להניח",
+    "examples": [
+      "To assume that everyone agrees is a mistake."
+    ]
+  },
+  {
+    "word": "To be biased",
+    "meaning": "לשחד /להטות",
+    "examples": [
+      "The study must ensure it is not biased."
+    ]
+  },
+  {
+    "word": "To call into question / to question",
+    "meaning": "להטיל ספק",
+    "examples": [
+      "The methodology was called into question during the review."
+    ]
+  },
+  {
+    "word": "To claim",
+    "meaning": "לטעון",
+    "examples": [
+      "To claim that the product is eco-friendly."
+    ]
+  },
+  {
+    "word": "To conclude",
+    "meaning": "להסיק",
+    "examples": [
+      "To conclude that further research is required."
+    ]
+  },
+  {
+    "word": "To contribute",
+    "meaning": "לתרום",
+    "examples": [
+      "To contribute ideas during the brainstorming session."
+    ]
+  },
+  {
+    "word": "To control",
+    "meaning": "לשלוט",
+    "examples": [
+      "To control the variables in the study."
+    ]
+  },
+  {
+    "word": "To deny",
+    "meaning": "להכחיש",
+    "examples": [
+      "To deny involvement in the incident."
+    ]
+  },
+  {
+    "word": "To encourage",
+    "meaning": "לעודד",
+    "examples": [
+      "To encourage students to explore their creativity."
+    ]
+  },
+  {
+    "word": "To fail",
+    "meaning": "להיכשל",
+    "examples": [
+      "To fail in achieving the objectives due to lack of preparation."
+    ]
+  },
+  {
+    "word": "To focus",
+    "meaning": "למקד/ להתמקד",
+    "examples": [
+      "To focus on achieving long-term goals."
+    ]
+  },
+  {
+    "word": "To highlight",
+    "meaning": "להדגיש",
+    "examples": [
+      "To highlight the importance of timely communication."
+    ]
+  },
+  {
+    "word": "To include",
+    "meaning": "לכלול",
+    "examples": [
+      "To include a diverse range of perspectives in the report."
+    ]
+  },
+  {
+    "word": "To interpret",
+    "meaning": "לפרש",
+    "examples": [
+      "To interpret the findings with caution."
+    ]
+  },
+  {
+    "word": "To maintain",
+    "meaning": "לטעון",
+    "examples": [
+      "To maintain that the findings are accurate."
+    ]
+  },
+  {
+    "word": "To raise",
+    "meaning": "לעלות",
+    "examples": [
+      "To raise concerns about the lack of transparency."
+    ]
+  },
+  {
+    "word": "To recognize",
+    "meaning": "להכיר, לזהות",
+    "examples": [
+      "To recognize the potential in emerging technologies."
+    ]
+  },
+  {
+    "word": "To recommend",
+    "meaning": "להמליץ",
+    "examples": [
+      "To recommend adopting new methodologies."
+    ]
+  },
+  {
+    "word": "To require",
+    "meaning": "לדרוש",
+    "examples": [
+      "This task requires advanced problem-solving skills."
+    ]
+  },
+  {
+    "word": "To reveal",
+    "meaning": "לחשוף",
+    "examples": [
+      "The study revealed significant gaps in knowledge."
+    ]
+  },
+  {
+    "word": "Advantage",
+    "meaning": "יתרון",
+    "examples": [
+      "One advantage of this approach is its simplicity."
+    ]
+  },
+  {
+    "word": "Aspect",
+    "meaning": "הביט",
+    "examples": [
+      "The financial aspect needs more attention."
+    ]
+  },
+  {
+    "word": "Bias",
+    "meaning": "הטיה",
+    "examples": [
+      "The research aimed to eliminate bias in data collection."
+    ]
+  },
+  {
+    "word": "Criterion",
+    "meaning": "קריטריון",
+    "examples": [
+      "The main criterion for selection is academic excellence."
+    ]
+  },
+  {
+    "word": "Criteria",
+    "meaning": "קריטריונים",
+    "examples": [
+      "The criteria for evaluating the project are strict."
+    ]
+  },
+  {
+    "word": "Drawback",
+    "meaning": "חסרון",
+    "examples": [
+      "A major drawback of this solution is its cost."
+    ]
+  },
+  {
+    "word": "Limitation",
+    "meaning": "מגבלה",
+    "examples": [
+      "A limitation of the study was the small sample size."
+    ]
+  },
+  {
+    "word": "Misconceptions",
+    "meaning": "דעות מוטעות",
+    "examples": [
+      "Misconceptions about the topic are common."
+    ]
+  },
+  {
+    "word": "Phenomenon / Phenomena",
+    "meaning": "תופעות /תופעה",
+    "examples": [
+      "The phenomenon of social media addiction is widespread.",
+      "Natural phenomena like storms are unpredictable."
+    ]
+  },
+  {
+    "word": "Prejudice",
+    "meaning": "דעה קדומה",
+    "examples": [
+      "To challenge prejudice through education."
+    ]
+  },
+  {
+    "word": "Previous / prior",
+    "meaning": "קודם",
+    "examples": [
+      "Previous research highlighted the issue."
+    ]
+  },
+  {
+    "word": "Current study",
+    "meaning": "מחקר נוכחי",
+    "examples": [
+      "The current study examines trends in renewable energy."
+    ]
+  },
+  {
+    "word": "Results are consistent with",
+    "meaning": "תוצאות תואמות",
+    "examples": [
+      "The results are consistent with previous findings."
+    ]
+  },
+  {
+    "word": "Appropriate",
+    "meaning": "הולם",
+    "examples": [
+      "Choosing an appropriate strategy is essential."
+    ]
   }
+
 ]
