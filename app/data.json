@@ -1,501 +1,152 @@
 [
   {
-    "word": "Demography",
-    "meaning": "תחום במדעי החברה העוסק בתיעוד האוכלוסייה, ובשינויים החלים בה כגון: גודלה, פיזור גיאוגרפי, נישואין, ילודה, תמותה",
-    "examples": []
+    "word": "To achieve",
+    "meaning": "להשיג",
+    "examples": ["To achieve a goal"]
   },
   {
-    "word": "Aging/ graying of the population",
-    "meaning": "הזדקנות האוכלוסייה",
-    "examples": []
+    "word": "To administer a questionnaire",
+    "meaning": "להעביר שאלון",
+    "examples": ["The researcher plans to administer a questionnaire to 100 participants."]
   },
   {
-    "word": "Currently",
-    "meaning": "בהווה",
-    "examples": []
+    "word": "To assess",
+    "meaning": "להעריך",
+    "examples": ["To assess the effectiveness of the new policy."]
   },
   {
-    "word": "A decline",
-    "meaning": "ירידה",
-    "examples": []
+    "word": "To associate",
+    "meaning": "לקשר",
+    "examples": ["To associate happiness with good health."]
   },
   {
-    "word": "a decrease",
-    "meaning": "ירידה",
-    "examples": []
+    "word": "To attribute",
+    "meaning": "ליחס",
+    "examples": ["To attribute success to hard work."]
   },
   {
-    "word": "a drop",
-    "meaning": "ירידה",
-    "examples": []
+    "word": "To compare",
+    "meaning": "להשוות",
+    "examples": ["To compare two different methods."]
   },
   {
-    "word": "An increase",
-    "meaning": "עליה",
-    "examples": []
+    "word": "To conduct a study",
+    "meaning": "לנהל",
+    "examples": ["To conduct a study on climate change."]
   },
   {
-    "word": "a rise",
-    "meaning": "עליה",
-    "examples": []
+    "word": "To confirm",
+    "meaning": "לאשר",
+    "examples": ["To confirm the reservation for the hotel."]
   },
   {
-    "word": "To take measures",
-    "meaning": "לנקוט צעדים",
-    "examples": [
-      ""
-    ]
+    "word": "To consider",
+    "meaning": "לשקול, לחשוב",
+    "examples": ["To consider all available options."]
   },
   {
-    "word": "The labor market",
-    "meaning": "שוק העבודה",
-    "examples": []
+    "word": "To demonstrate",
+    "meaning": "להוכיח",
+    "examples": ["To demonstrate the benefits of the new software."]
   },
   {
-    "word": "Birth rate",
-    "meaning": "קצב הילודה",
-    "examples": []
+    "word": "To elicit",
+    "meaning": "לדלות",
+    "examples": ["To elicit responses from the audience."]
   },
   {
-    "word": "Mortality rate",
-    "meaning": "קצב התמותה",
-    "examples": []
+    "word": "To estimate / To evaluate",
+    "meaning": "להעריך",
+    "examples": ["To estimate the cost of the project.", "To evaluate the performance of the team."]
   },
   {
-    "word": "A trend",
-    "meaning": "מגמה",
-    "examples": []
+    "word": "To examine",
+    "meaning": "לבדוק, לבחון",
+    "examples": ["To examine the evidence in detail."]
   },
   {
-    "word": "Flexible labor market",
-    "meaning": "שוק עבודה גמיש",
-    "examples": []
-  },
-
-
-  {
-    "word": "Conception",
-    "meaning": "תפיסה, רעיון",
-    "examples": []
+    "word": "To expect",
+    "meaning": "לצפות",
+    "examples": ["To expect good results from the experiment."]
   },
   {
-    "word": "misconception",
-    "meaning": "תפיסה מוטעית",
-    "examples": []
+    "word": "To identify",
+    "meaning": "לזהות",
+    "examples": ["To identify the root cause of the problem."]
   },
   {
-    "word": "Gender",
-    "meaning": "מיגדר: מונח במדעי החברה המתייחס להבחנות בין גבר לאשה על בסיס תרבותי וחברתי",
-    "examples": []
+    "word": "To indicate",
+    "meaning": "להראות",
+    "examples": ["To indicate the direction of the wind."]
   },
   {
-    "word": "A self-esteem issue",
-    "meaning": "סוגיה (נושא חשוב) הקשורה להערכה עצמית",
-    "examples": []
+    "word": "To involve",
+    "meaning": "מעורב",
+    "examples": ["To involve the community in the project."]
   },
   {
-    "word": "Finding/s",
-    "meaning": "ממצא/ ים",
-    "examples": []
+    "word": "To measure",
+    "meaning": "למדוד",
+    "examples": ["To measure the height of the building."]
   },
   {
-    "word": "Subjects",
-    "meaning": "המשתתפים במחקר",
-    "examples": []
+    "word": "To reject / To refute",
+    "meaning": "להפריך, לדחות",
+    "examples": ["To reject the hypothesis.", "To refute a false claim."]
   },
   {
-    "word": "Participants",
-    "meaning": "המשתתפים במחקר",
-    "examples": []
+    "word": "To support",
+    "meaning": "לחזק, לתמוך",
+    "examples": ["To support a friend in need."]
   },
   {
-    "word": "To activate certain chemicals in the body",
-    "meaning": "להפעיל כימיקלים מסוימים בגוף",
-    "examples": []
+    "word": "To survey",
+    "meaning": "לסקור",
+    "examples": ["To survey the land before construction."]
   },
   {
-    "word": "The health issue",
-    "meaning": "סוגיית הבריאות",
-    "examples": []
+    "word": "Unanticipated Consequences",
+    "meaning": "השלכות, תוצאות- לא צפויות",
+    "examples": ["Unanticipated consequences of the new policy caused delays."]
   },
   {
-    "word": "To break the cycle of emotional eating",
-    "meaning": "לשבור את מעגל האכילה הרגשית",
-    "examples": []
-  },
-  {
-    "word": "A healthy relationship with food",
-    "meaning": "יחסים בריאים עם אוכל",
-    "examples": []
-  },
-  {
-    "word": "Topic",
-    "meaning": "הנושא הכללי של המאמר, בד\"כ הכותרת",
-    "examples": []
-  },
-  {
-    "word": "Leading argument",
-    "meaning": "הטיעון המוביל, הרעיון המרכזי של המאמר בפתיח",
-    "examples": []
-  },
-  {
-    "word": "main idea",
-    "meaning": "הטיעון המוביל, הרעיון המרכזי של המאמר בפתיח",
-    "examples": []
-  },
-  {
-    "word": "Research",
-    "meaning": "מחקר (כמונח כללי)",
-    "examples": []
-  },
-  {
-    "word": "A study",
-    "meaning": "מחקר בנושא מסוים",
-    "examples": []
-  },
-  {
-    "word": "To conduct research",
-    "meaning": "לערוך מחקר",
-    "examples": []
-  },
-  {
-    "word": "to carry out research",
-    "meaning": "לערוך מחקר",
-    "examples": []
-  },
-  {
-    "word": "A research",
-    "meaning": "מחקר",
-    "examples": []
-  },
-  {
-    "word": "An experimental group",
-    "meaning": "קבוצת המחקר, עליהם המחקר",
-    "examples": []
-  },
-  {
-    "word": "A comparison group",
-    "meaning": "קבוצת השוואה, קבוצת בקרה/ קבוצת ביקורת",
-    "examples": []
-  },
-  {
-    "word": "A control group",
-    "meaning": "קבוצת השוואה, קבוצת בקרה/ קבוצת ביקורת",
-    "examples": []
-  },
-  {
-    "word": "Versus",
-    "meaning": "מול, נגד",
-    "examples": []
-  },
-  {
-    "word": "Vs.",
-    "meaning": "מול, נגד",
-    "examples": []
-  },
-  {
-    "word": "An addiction",
-    "meaning": "התמכרות",
-    "examples": []
-  },
-  {
-    "word": "An impact",
-    "meaning": "השפעה",
-    "examples": []
-  },
-  {
-    "word": "An effect",
-    "meaning": "השפעה",
-    "examples": []
-  },
-  {
-    "word": "To draw an analogy",
-    "meaning": "לערוך השוואה, אנלוגיה",
-    "examples": []
-  },
-  {
-    "word": "Moreover",
-    "meaning": "יתרה על כך",
-    "examples": []
-  },
-  {
-    "word": "furthermore",
-    "meaning": "יתרה על כך",
-    "examples": []
-  },
-  {
-    "word": "Initially/ First… second (next)… third (next)…last",
-    "meaning": "סדר כרונולוגי: הראשון, השני (הבא)...",
-    "examples": []
-  },
-  {
-    "word": "Also",
-    "meaning": "גם",
-    "examples": []
-  },
-  {
-    "word": "as well as",
-    "meaning": "גם",
-    "examples": []
-  },
-  {
-    "word": "too",
-    "meaning": "גם",
-    "examples": []
-  },
-  {
-    "word": "Another",
-    "meaning": "אחר, עוד",
-    "examples": []
-  },
-  {
-    "word": "In addition",
-    "meaning": "בנוסף",
-    "examples": []
-  },
-  {
-    "word": "Not only… but also",
-    "meaning": "לא רק... אלא גם...",
-    "examples": []
-  },
-  {
-    "word": "Finally",
-    "meaning": "בסופו של דבר",
-    "examples": []
-  },
-  {
-    "word": "Either…or",
-    "meaning": "או x... או y...",
-    "examples": []
-  },
-  {
-    "word": "Neither… nor",
-    "meaning": "לא x... ולא y...",
-    "examples": []
-  },
-  {
-    "word": "Eventually",
-    "meaning": "בסופו של דבר",
-    "examples": []
-  },
-  {
-    "word": "Yet",
-    "meaning": "אולם/אבל",
-    "examples": []
-  },
-  {
-    "word": "Still",
-    "meaning": "אולם/אבל",
-    "examples": []
-  },
-  {
-    "word": "However",
-    "meaning": "אולם/אבל",
-    "examples": []
-  },
-  {
-    "word": "But",
-    "meaning": "אולם/אבל",
-    "examples": []
-  },
-  {
-    "word": "Whereas",
-    "meaning": " בעוד ש... (ניגוד)",
-    "examples": []
-  },
-  {
-    "word": "While",
-    "meaning": " בעוד ש... (ניגוד)",
-    "examples": []
-  },
-  {
-    "word": "In contrast",
+    "word": "Contrary",
     "meaning": "בניגוד",
-    "examples": []
+    "examples": ["Contrary to popular belief, not all cats dislike water."]
   },
   {
-    "word": "On the contrary",
-    "meaning": "בניגוד",
-    "examples": []
+    "word": "Controversial",
+    "meaning": "שנוי במחלוקת",
+    "examples": ["The topic of animal testing is highly controversial."]
   },
   {
-    "word": "Conversely",
-    "meaning": "בניגוד",
-    "examples": []
+    "word": "Lack of evidence",
+    "meaning": "חוסר הוכחה, ראייה",
+    "examples": ["The claim was dismissed due to lack of evidence."]
   },
   {
-    "word": "as opposed to",
-    "meaning": "בניגוד",
-    "examples": []
+    "word": "Implications",
+    "meaning": "השלכות",
+    "examples": ["The implications of the study are far-reaching."]
   },
   {
-    "word": "Instead",
-    "meaning": "בניגוד",
-    "examples": []
+    "word": "Voluntary",
+    "meaning": "בהתנדבות-ברצון",
+    "examples": ["Participation in the survey is voluntary."]
   },
   {
-    "word": "Rather",
-    "meaning": "במקום",
-    "examples": []
+    "word": "Participation",
+    "meaning": "השתתפות",
+    "examples": ["Active participation in class is encouraged."]
   },
   {
-    "word": "Although",
-    "meaning": "למרות",
-    "examples": []
+    "word": "Purpose",
+    "meaning": "מטרה",
+    "examples": ["The purpose of the meeting is to discuss the budget."]
   },
   {
-    "word": "Though",
-    "meaning": "למרות",
-    "examples": []
-  },
-  {
-    "word": "Even though",
-    "meaning": "למרות",
-    "examples": []
-  },
-  {
-    "word": "Despite",
-    "meaning": "למרות",
-    "examples": []
-  },
-  {
-    "word": "In spite of",
-    "meaning": "למרות",
-    "examples": []
-  },
-  {
-    "word": "On the one hand",
-    "meaning": "מצד אחד",
-    "examples": []
-  },
-  {
-    "word": "On the other hand",
-    "meaning": "מצד שני",
-    "examples": []
-  },
-  {
-    "word": "Like",
-    "meaning": "כמו",
-    "examples": []
-  },
-  {
-    "word": "In like manner",
-    "meaning": "כמו",
-    "examples": []
-  },
-  {
-    "word": "Similarly",
-    "meaning": "כמו",
-    "examples": []
-  },
-  {
-    "word": "Likewise",
-    "meaning": "בדומה",
-    "examples": []
-  },
-  {
-    "word": "Equality",
-    "meaning": "באופן שווה",
-    "examples": []
-  },
-  {
-    "word": "For example",
-    "meaning": "לדוגמא",
-    "examples": []
-  },
-  {
-    "word": "For instance",
-    "meaning": "לדוגמא",
-    "examples": []
-  },
-  {
-    "word": "Such as",
-    "meaning": "כמו למשל",
-    "examples": []
-  },
-  {
-    "word": "E.g",
-    "meaning": "לדוגמא",
-    "examples": []
-  },
-  {
-    "word": "Since",
-    "meaning": "בגלל",
-    "examples": []
-  },
-  {
-    "word": "Because",
-    "meaning": "בגלל",
-    "examples": []
-  },
-  {
-    "word": "Consequently",
-    "meaning": "כתוצאה מכך",
-    "examples": []
-  },
-  {
-    "word": "As a result",
-    "meaning": "כתוצאה מכך",
-    "examples": []
-  },
-  {
-    "word": "Thus",
-    "meaning": "לכן, כך",
-    "examples": []
-  },
-  {
-    "word": "Therefore",
-    "meaning": "לכן",
-    "examples": []
-  },
-  {
-    "word": "Due to",
-    "meaning": "בגלל",
-    "examples": []
-  },
-  {
-    "word": "Stem from",
-    "meaning": "נגרם מ..",
-    "examples": []
-  },
-  {
-    "word": "Result from",
-    "meaning": "נגרם מ..",
-    "examples": []
-  },
-  {
-    "word": "Derive from",
-    "meaning": "נגרם מ..",
-    "examples": []
-  },
-  {
-    "word": "Result in",
-    "meaning": "גורם ל..",
-    "examples": []
-  },
-  {
-    "word": "In other words",
-    "meaning": "במילים אחרות",
-    "examples": []
-  },
-  {
-    "word": "Indeed",
-    "meaning": "אכן",
-    "examples": []
-  },
-  {
-    "word": "That is",
-    "meaning": "כלומר, במילים אחרות",
-    "examples": []
-  },
-  {
-    "word": "Namely",
-    "meaning": "כלומר, במילים אחרות",
-    "examples": []
-  },
-  {
-    "word": "I.e",
-    "meaning": "כלומר, במילים אחרות",
-    "examples": []
+    "word": "Empirical studies",
+    "meaning": "מחקרים אמפיריים",
+    "examples": ["Empirical studies show a link between exercise and mental health."]
   }
 ]
