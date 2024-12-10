@@ -1,35 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
-
-
 .container {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin: auto;
   position: relative;
 }
@@ -76,29 +48,35 @@ body {
   padding-top: 130px;
   text-align: center;
   margin: auto;
-
 }
 
-
-/*.btn {*/
-/*  width: 250px;*/
-/*  display: inline-flex;*/
-/*  justify-content: center;*/
-
-/*}*/
-
 .button1, .button2 {
-  position: absolute;
-  bottom: 0;
-  width: 250px;
-  padding: 10px;
-  box-sizing: border-box;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
 }
 
 .button1 {
-  left: 0;
+  background-color: #dff0d8;
+  color: green;
+  margin-right: 10px;
 }
 
 .button2 {
-  right: 0;
+  background-color: #f2dede;
+  color: red;
+  margin-left: 10px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  width: 320px; /* Adjust as needed */
+  margin-top: 20px;
 }
