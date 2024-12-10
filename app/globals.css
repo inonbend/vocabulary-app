@@ -80,25 +80,21 @@ body {
 }
 
 
-/*.btn {*/
-/*  width: 250px;*/
-/*  display: inline-flex;*/
-/*  justify-content: center;*/
-
-/*}*/
-
-.button1, .button2 {
-  position: absolute;
-  bottom: 0;
-  width: 250px;
-  padding: 10px;
-  box-sizing: border-box;
-}
-
 .button1 {
-  left: 0;
+  background-color: #dff0d8;
+  color: green;
+  margin-right: 10px;
 }
 
 .button2 {
-  right: 0;
+  background-color: #f2dede;
+  color: red;
+  margin-left: 10px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  width: 320px; /* Adjust as needed */
+  margin-top: 20px;
 }
